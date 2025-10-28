@@ -1,9 +1,8 @@
 {
   "latestVersion": "1.2",
   "versionCode": 3,
-  "changelog": "✨ New Features:\n• Fixed GPS location accuracy\n• Improved update system\n• UI improvements\n\n🐛 Bug Fixes:\n• Resolved map loading issues\n• Fixed permission requests",
+  "changelog": "✨ Test Update:\n• Testing update notification system\n• This is just a test",
   "apkUrl": "https://mikuare.github.io/qmaz-project-update/app-release.apk",
   "releaseDate": "2025-10-28",
   "isCritical": false
 }
-
