@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.3.0",
-  "versionCode": 4,
+  "latestVersion": "2.0",
+  "versionCode": 2,
   "changelog": "✨ Test Update:\n• Testing update notification system\n• This is just a test",
   "apkUrl": "https://mikuare.github.io/qmaz-project-update/app-release.apk",
   "releaseDate": "2025-10-28",
